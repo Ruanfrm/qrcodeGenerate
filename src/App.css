@@ -1,0 +1,43 @@
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.input {
+    font-weight: bold;
+    text-align: center;
+    height: 38px;
+    border-radius: 8px;
+    max-width: 300px;
+    width: 100%;
+    margin: 24px 0;
+    padding: 8px;
+    outline: none;
+    border: 1px solid #003785;
+}
+
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #1506fa;
+    background-size: cover;
+    color: white;
+  
+    
+  }
+
+  .qrcode {
+    text-align: center;
+    justify-items: center;
+  }
+  
+  a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    }
+ 
